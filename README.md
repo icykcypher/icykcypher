@@ -1,4 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://welltext.vercel.app)
+[![Github](https://img.shields.io/github/followers/qwerty541?label=Follow&style=social)](https://github.com/qwerty541)
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">I'm Maksym - a Junior Backend Developer from Ukraine</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
@@ -40,8 +42,7 @@
 
 ### Hey 👋, I'm Alexandr
 
-[![Github](https://img.shields.io/github/followers/qwerty541?label=Follow&style=social)](https://github.com/qwerty541)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
+
 
 - I'm a software engineer from Ukraine with 5 years of commercial development experience.
 - Currently working on [Overvis Cloud Platform](https://www.overvis.com/) for remote monitoring and control of industrial equipment.
@@ -120,17 +121,7 @@
 <div align="center">
   <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
-        alt="My Wakatime stats"
-      />
-  </a>
-</div>
-
-<!-- WakaTime stats (Dark mode) -->
-<div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
-    <img
-        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=icykcypher&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
         alt="My Wakatime stats"
       />
   </a>
