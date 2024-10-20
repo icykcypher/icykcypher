@@ -7,8 +7,8 @@
 - 💬 Ask me about **C# .NET,C++**
 
 - 📫 How to reach me **solonitsyn.maksym@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Technology Stack</h3>
+<p align="center"> 
             <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
             <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> </a>
             <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"  alt="blazor" width="40" height="40"/> </a>
