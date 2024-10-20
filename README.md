@@ -24,7 +24,7 @@
             <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]
+!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
 
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/qwerty541#gh-light-mode-only">
