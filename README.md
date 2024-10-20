@@ -4,7 +4,7 @@
 <h3 align="center">I'm Maksym - a Junior Backend Developer from Ukraine</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icykcypher&label=Profile%20views&color=0e75b6&style=flat" alt="icykcypher" /> </p>
-📫 How to reach me **solonitsyn.maksym@gmail.com**
+ - 📫 How to reach me **solonitsyn.maksym@gmail.com**
 <h3 align="center">Technology Stack</h3>
 <p align="center"> 
             <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
