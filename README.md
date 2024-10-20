@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![MasterHead](https://raw.githubusercontent.com/icykcypher/icykcypher/surfing-in-the-internet-om-nom.mp4)
 ![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">I'm Maksym - a Junior Backend Developer from Ukraine</h3>
