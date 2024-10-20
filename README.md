@@ -8,7 +8,14 @@
 
 - 📫 How to reach me **solonitsyn.maksym@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a></p>
+<p align="left"> 
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"  alt="blazor" width="40" height="40"/> </a>
+            <a  href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+            
+          
+</p>
 [![Icykcypher's GitHub stats](https://github-readme-stats.vercel.app/api?username=icykcypher)](https://github.com/icykcypher/github-readme-stats)
 
             
