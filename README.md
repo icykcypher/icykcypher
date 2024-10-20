@@ -8,5 +8,8 @@
 
 - 📫 How to reach me **solonitsyn.maksym@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a></p>
 [![Icykcypher's GitHub stats](https://github-readme-stats.vercel.app/api?username=icykcypher)](https://github.com/icykcypher/github-readme-stats)
+
+            
+          
