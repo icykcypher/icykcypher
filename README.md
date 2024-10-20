@@ -4,9 +4,9 @@
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmishra1209&label=Profile%20views&color=0e75b6&style=flat" alt="akashmishra1209" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Python**
+- 💬 Ask me about **C#,C++,.NET**
 
-- 📫 How to reach me **ashish71570@gmail.com**
+- 📫 How to reach me **solonitsyn.maksym@gmail.com**
 
 <p align="left">
 </p>
