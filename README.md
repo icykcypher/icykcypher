@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]
-<h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm Maksym - a Junior Backend Developer from Ukraine</h3>
 [![Github](https://img.shields.io/github/followers/qwerty541?label=Follow&style=social)](https://github.com/qwerty541)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)]
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">I'm Maksym - a Junior Backend Developer from Ukraine</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icykcypher&label=Profile%20views&color=0e75b6&style=flat" alt="icykcypher" /> </p>
 
@@ -33,7 +33,7 @@
     <tr>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=qwerty541&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api?username=icykcypher&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
             alt="My Github stats"
             height="370"
           />
