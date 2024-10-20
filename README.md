@@ -25,31 +25,6 @@
             <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=icykcypher&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=icykcypher&hide=html,css&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=icykcypher&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-### Hey 👋, I'm Alexandr
-
-
-
-- I'm a software engineer from Ukraine with 5 years of commercial development experience.
-- Currently working on [Overvis Cloud Platform](https://www.overvis.com/) for remote monitoring and control of industrial equipment.
-- In my free time i love contributing to open source projects and playing video games.
-- One of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) maintainers.
-- Creator of several small Rust crates ([dns-bench](https://github.com/qwerty541/dns-bench), [logged-tcp-proxy](https://github.com/qwerty541/logged-tcp-proxy) and [logged-stream](https://github.com/qwerty541/logged-stream)) and [OpenCart 3 plugins](https://github.com/overvis/opencart-plugins).
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/qwerty541zxc)
 
 <!-- GRS (Light Mode) -->
