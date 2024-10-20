@@ -24,7 +24,7 @@
 !["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
 
 <!-- GRS (Light Mode) -->
-<a href="#">
+<a href="https://github.com/qwerty541#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
@@ -46,7 +46,7 @@
 </a>
 
 <!-- GRS (Dark Mode) -->
-<a href="#">
+<a href="https://github.com/qwerty541#gh-dark-mode-only">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
@@ -69,7 +69,7 @@
 
 <!-- Streak stats (Light mode) -->
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=icykcypher&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
@@ -80,7 +80,7 @@
 
 <!-- Streak stats (Dark mode) -->
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=icykcypher&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"
@@ -90,7 +90,7 @@
 
 <!-- WakaTime stats (Light mode) -->
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/qwerty541#gh-light-mode-only">
     <img
         src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=icykcypher&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
         alt="My Wakatime stats"
