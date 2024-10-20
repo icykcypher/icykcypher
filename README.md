@@ -1,16 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://welltext.vercel.app)
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A Student From India</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">I'm a Junior Developer from Ukraine</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmishra1209&label=Profile%20views&color=0e75b6&style=flat" alt="akashmishra1209" /> </p>
-
-- 🔭 I’m currently working on [WellText](https://welltext.vercel.app)
-
-- 🌱 I’m currently learning **Nextjs**
-
-- 👯 I’m looking to collaborate on [WellText](https://welltext.vercel.app)
-
-- 🤝 I’m looking for help with [WellText](https://welltext.vercel.app)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Python**
 
