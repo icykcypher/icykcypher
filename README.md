@@ -10,10 +10,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
             <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> </a>
             <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"  alt="blazor" width="40" height="40"/> </a>
             <a  href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-            
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="docker" width="40" height="40"/></a>
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"  alt="git" width="40" height="40"/></a>
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="stackoverflow" width="40" height="40"/></a>
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg"  alt="swager" width="40" height="40"/></a>
+            <a href="#" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/></a>
+           
+          
+          
           
 </p>
 [![Icykcypher's GitHub stats](https://github-readme-stats.vercel.app/api?username=icykcypher)](https://github.com/icykcypher/github-readme-stats)
