@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **solonitsyn.maksym@gmail.com**
 
+[![Icykcypher's GitHub stats](https://github-readme-stats.vercel.app/api?username=icykcypher)](https://github.com/icykcypher/github-readme-stats)
 <p align="left">
 </p>
-[![Icykcypher's GitHub stats](https://github-readme-stats.vercel.app/api?username=icykcypher)](https://github.com/icykcypher/github-readme-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icykcypher&show_icons=true&locale=en&layout=compact" alt="icykcypher" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashmishra1209&show_icons=true&locale=en" alt="akashmishra1209" /></p>
