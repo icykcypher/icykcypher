@@ -1,4 +1,4 @@
-![MasterHead]((https://github.com/icykcypher/icykcypher/blob/master/omnom.jpg))
+![MasterHead](omnom.jpg)
 ![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">I'm Maksym - a Junior Backend Developer from Ukraine</h3>
