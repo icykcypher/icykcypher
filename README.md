@@ -21,6 +21,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-plain-wordmark.svg" alt="vault" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  alt="postgre" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
