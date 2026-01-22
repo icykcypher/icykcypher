@@ -1,7 +1,7 @@
 ![MasterHead](omnom.jpg)
 ![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm Maksym - a Junior Backend Developer from Ukraine</h3>
+<h3 align="center">I'm Maksym - a Backend Developer from Ukraine</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icykcypher&label=Profile%20views&color=0e75b6&style=flat" alt="icykcypher" /> </p>
 <p>📫 How to reach me → solonitsyn.maksym@gmail.com</p>    
